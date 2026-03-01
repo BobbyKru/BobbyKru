@@ -1,16 +1,15 @@
-## Hi there 👋
+## Core
 
-<!--
-**BobbyKru/BobbyKru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Integral Method 1.1** — structural alignment layer for AI/human interaction.  
+  [→ repo](https://github.com/BobbyKru/Integral-Method-1.1)
 
-Here are some ideas to get you started:
+- **Nexus Core** — long‑life hardware identity core.  
+  [→ repo](https://github.com/BobbyKru/nexus-core)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+Functional architecture for MoE.  
+64 × 6 × 6 × 6 × 5 = **69120** distinct functional profiles.  
+32 complementary pairs. 1 integrative circuit.
+
+[MEMORANDUM →](link-to-memorandum) (будет позже)
